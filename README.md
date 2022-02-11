@@ -1,2 +1,2 @@
 # Temperature-Converter
-Temperature Converter 
+small app converting temperature 
